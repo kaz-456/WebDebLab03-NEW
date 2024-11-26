@@ -9,7 +9,7 @@ about_me = "I'm Iskander Dyussenov, a first-year student at Georgia Institute of
 #CHANGE BELOW (OPTIONAL)
 linkedin_image_url = "https://media.licdn.com/dms/image/v2/D5603AQEq-GMmK8kFTQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731788473700?e=1736985600&v=beta&t=5i1_w6refhqS65R534r9mfogJyRhp9U19vbL5KHgoLY"
 github_image_url = "https://avatars.githubusercontent.com/u/188730183?v=4"
-email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
+email_image_url = "https://logowik.com/content/uploads/images/513_email.JPG"
 
 #CHANGE BELOW
 my_linkedin_url = "https://www.linkedin.com/in/iskander-dyussenov-aab9612a9/"

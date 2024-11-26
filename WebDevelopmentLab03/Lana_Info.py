@@ -7,7 +7,7 @@ about_me = "Hello! My name is Lana Boudiab. I am a fourth year Music Technology/
 # Links Section with updated GitHub and Instagram
 linkedin_image_url = "https://media.licdn.com/dms/image/v2/C4E03AQGPz0r2LSuulQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1640311341882?e=1737590400&v=beta&t=LvjzOHPA_GIQgIq-VdYL7ITXcoYJMGfUMyRoWhdIZ3A"
 github_image_url = "https://avatars.githubusercontent.com/u/179502265?s=400&v=4"
-email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
+email_image_url = "https://logowik.com/content/uploads/images/513_email.JPG"
 
 # URLs for Social Media
 my_linkedin_url = "https://www.linkedin.com/in/lana-b-7a1033228/"

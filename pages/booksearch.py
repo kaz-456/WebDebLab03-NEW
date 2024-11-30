@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 #Here I enter the api url and api key that I generated in my google cabinet
-api_key = "AIzaSyDKdLULoLEOvdTs5JSG6Mqbbh6Mnyy_BBI" 
+api_key = "AIzaSyCjDVZbHKHQS9dvanzDPg4YfndBNC_rbwQ" 
 GOOGLE_BOOKS_API_URL = f"https://www.googleapis.com/books/v1/volumes?key={api_key}"
 
 def fetch_books(name, author=None, publication_date=None):

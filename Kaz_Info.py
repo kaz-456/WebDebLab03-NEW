@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.jpg"
+profile_picture = "../WebDevelopmentLab03/Images/profile.jpg"
 about_me = "I'm Iskander Dyussenov, a first-year student at Georgia Institute of Technology! I am studying Industrial Engineering and am very passionate about poster design, math, and photography!"
 
 
@@ -32,10 +32,10 @@ course_data = {
     }
 experience_data = {
     "Intern at TGS Sustainable Energy": (["- Created a 30-page business plan for a tech project",
-                                                                          "- Increased Company Revenue by 10,000 dollars", "- Improved my college application portfolio"],"Images/tgs.png"),
+                                                                          "- Increased Company Revenue by 10,000 dollars", "- Improved my college application portfolio"],"../WebDevelopmentLab03/Images/tgs.png"),
     "Project manager at Scyth":(["- Was the creative director of the company",
-                                                           "- Worked on various creative projects"],"Images/scyth.svg"),
-    "Designer at Bebr.CO":(["- Created 119 designs for Bebr. CO's secret product (I signed an NDA)"],"Images/bebr.png")
+                                                           "- Worked on various creative projects"],"../WebDevelopmentLab03/Images/scyth.svg"),
+    "Designer at Bebr.CO":(["- Created 119 designs for Bebr. CO's secret product (I signed an NDA)"],"../WebDevelopmentLab03/Images/bebr.png")
 
 }
 
@@ -67,7 +67,7 @@ spoken_data = {
     "Russian": "Fluent",
 }
 leadership_data = {
-    "JULIUS Public Speaking and Oratory": (["- Founder and Supreme Leader", "- Great teacher"],"Images/julius logo clear png.png"),
+    "JULIUS Public Speaking and Oratory": (["- Founder and Supreme Leader", "- Great teacher"],"../WebDevelopmentLab03/Images/julius-logo-clear-png.png"),
 
 }
 activity_data={

@@ -1,7 +1,7 @@
 # This File will contain the information to be displayed in your portfolio
 
 # Profile Information
-profile_picture = "Images/ProfileImage.JPG"
+profile_picture = "../WebDevelopmentLab03/Images/ProfileImage.JPG"
 about_me = "Hello! My name is Lana Boudiab. I am a fourth year Music Technology/Audio Engineering student. As a musician, I play instruments such as the cello, piano, or electric guitar. I also produce music on softwares such as Ableton Live or FL Studio."
 
 # Links Section with updated GitHub and Instagram
@@ -35,9 +35,9 @@ course_data = {
 experience_data = {
     "Information Technology/Audio Visual Services": (["- Worked as a student assistant installing and verifying technology functioning on Georgia Tech Campus.",
                                                     "- Became student representative for film and audio studios", 
-                                                    "- Installed speakers, sound systems, projectors, mics, and more."], "Images/itavsupport.png"),
-    "Music Management/A&R":(["- Booked artist shows", "- Helped make important marketing decisions", "- Worked with a record label"], "Images/a&r.webp"),
-    "Music Production and Mixing":(["- Worked with software such as FL Studio, Ableton, Logic", "- Produced genres including house, trance, techno, rap, pop, classical, rock", "- Live mixed for Rock and Pop ensemble", "- Mixed and mastered my own work"], "Images/mixmaster.webp")
+                                                    "- Installed speakers, sound systems, projectors, mics, and more."], "../WebDevelopmentLab03/Images/itavsupport.png"),
+    "Music Management/A&R":(["- Booked artist shows", "- Helped make important marketing decisions", "- Worked with a record label"], "../WebDevelopmentLab03/Images/a&r.webp"),
+    "Music Production and Mixing":(["- Worked with software such as FL Studio, Ableton, Logic", "- Produced genres including house, trance, techno, rap, pop, classical, rock", "- Live mixed for Rock and Pop ensemble", "- Mixed and mastered my own work"], "../WebDevelopmentLab03/Images/mixmaster.webp")
 }
 
 # Projects Data
@@ -65,7 +65,7 @@ spoken_data = {
 leadership_data = {
     "Head of Marketing Team at NCEG": (["- Led the marketing team for National Collegiate Entertainers Group",
                                        "- Attended and supported artists at shows at Georgia Tech, Georgia State, and other colleges", 
-                                       "- Managed social media pages and advertising"], "Images/NCEG_image.webp")
+                                       "- Managed social media pages and advertising"], "../WebDevelopmentLab03/Images/NCEG_image.webp")
 }
 
 # Activity Data

@@ -17,7 +17,7 @@ def render_image(filepath: str, width: int):
 #About Me
 def about_me_section():
     st.header("About Me")
-    render_image("../profile.jpg", 200)
+    render_image("/mount/src/webdeblab03-new/profile.jpg", 200)
     # st.image("../profile.jpg", width=200)
     st.write(Kaz_Info.about_me)
     st.write('---')

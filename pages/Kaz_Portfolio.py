@@ -3,21 +3,10 @@ import Kaz_Info
 import pandas as pd
 import base64
 
-def render_image(filepath: str, width: int):
-   """
-   filepath: path to the image. Must have a valid file extension.
-   """
-   mime_type = filepath.split('.')[-1:][0].lower()
-   with open(filepath, "rb") as f:
-    content_bytes = f.read()
-    content_b64encoded = base64.b64encode(content_bytes).decode()
-    image_string = f'data:image/{mime_type};base64,{content_b64encoded}'
-    st.image(image_string, width=width)
-
 #About Me
 def about_me_section():
     st.header("About Me")
-    render_image(Kaz_Info.profile_picture, 200)
+    st.image(Kaz_Info.profile_picture, width=200)
     st.write(Kaz_Info.about_me)
     st.write('---')
 about_me_section()

@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.JPG"
+profile_picture = "Images/profile.jpg"
 about_me = "I'm Iskander Dyussenov, a first-year student at Georgia Institute of Technology! I am studying Industrial Engineering and am very passionate about poster design, math, and photography!"
 
 
